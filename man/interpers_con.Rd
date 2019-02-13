@@ -22,5 +22,5 @@ interpers_con(yourdata, youridvariable)
 Block, J. (1961). Ego Identity, Role Variability, and Adjustment. Journal of Clinical Psychology, 25(5), 392-397.
 }
 \author{
-Esther Beierl <esther.beierl@gmx.de> [‘aut‘, ‘cre‘], Lawrence Yu [‘ctb‘]
+Esther Beierl <esther.beierl@gmx.de> [‘aut‘, ‘cre‘], Ho Wing Yu [‘ctb‘]
 }
