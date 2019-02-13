@@ -4,7 +4,7 @@ Title: Interpersonal Consistency
 Version: 0.0.1
 Authors: Esther Beierl
 Maintainer: Esther Beierl <esther.beierl@gmx.de>
-Contributor: Lawrence Yu
+Contributor: Ho Wing Yu
 Description: Calculates the extent of interpersonal consistency for the task described in Block (1961) in the Journal of Consulting Psychology
 Depends: R (>= 3.5.1)
 License: GPL-3
